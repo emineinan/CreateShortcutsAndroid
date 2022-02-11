@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShortcutSample</string>
+    <string name="compose_shortcut_rest">Food menu</string>
+</resources>
